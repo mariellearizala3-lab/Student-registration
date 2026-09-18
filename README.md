@@ -48,7 +48,10 @@ Responsive desktop and mobile layout
 File Structure
 
 student-registration/
-├── student_form_reference_layout.html
+├── student_form.html
+├── picture.jpg
+├── video.mp4
+├── Taylor Swift - Fate of Ophelia.mp3
 └── README_student_registration.md
 
 How to Run
